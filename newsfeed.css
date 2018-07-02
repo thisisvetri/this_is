@@ -1,0 +1,15 @@
+body{
+    background-color: green;
+    
+}
+
+    
+.newss p{
+    width: 1260px;
+    border: 500px;
+    height: 60px;
+    background-color: grey;
+    margin-right: 300px;
+    color: black;
+    text-align: center;
+}

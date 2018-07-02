@@ -1,0 +1,15 @@
+body{
+    background-color: yellow;
+    
+}
+
+    
+.list p{
+    width: 1150px;
+    border: 500px;
+    height: 60px;
+    background-color: blue;
+    margin-right: 300px;
+    color: black;
+    text-align: center;
+}
